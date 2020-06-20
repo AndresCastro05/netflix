@@ -1,0 +1,250 @@
+.fondo{
+    background: url(http://imgfz.com/i/wUmWxRe.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+}
+.fondo2{
+    background: url(http://imgfz.com/i/wUmWxRe.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 870px;
+    
+
+}
+
+body{
+    background: black;
+}
+h1{
+
+    color: white;
+    font-size:64px;
+}
+
+.imagen{
+    height: 120px;
+}
+
+#boton{
+    margin-left: 1000px;
+    margin-right: 30px;
+    background: #E50914;
+}
+h4{
+    font-size:26px;
+    color:white;
+}
+
+#btn1{
+    
+    
+    background: #E50914;
+    font-size:30px;
+    color:white;
+
+}
+#quieres{
+    
+    font-size:19px;
+
+}
+#sesion{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+h5{
+    font-size:19px;
+    color:white;
+
+
+}
+#btn2{
+    
+    
+    background: #E50914;
+    font-size:30px;
+    color:white;
+
+}
+#quieres2{
+    
+    font-size:19px;
+
+}
+
+#caja{
+    width: 600px;
+    font-size:30px;
+
+}
+
+#border{
+    border-top-color:#222222;
+    border-top-style: solid;
+    border-top-width: 6px;
+}
+ #tv{
+     margin-top:50;
+     margin-right:300px;
+     width: 550px;
+     margin-bottom: 50px;
+ }
+ #texttv{
+     color:#ffffff;
+     margin-top: 50px;
+     margin-left: 200px;
+     margin-bottom: 100px;
+     
+ }
+ #cel{
+    margin-top:50px;
+    width: 500px;
+    margin-bottom: 80px;
+    margin-left: 130px;
+
+ }
+
+ #textcel{
+    margin-top:150px;
+    margin-right:200px;
+    margin-bottom: 50px
+ }
+
+ #table{
+     margin-top: 50px;
+     margin-bottom: 50px;
+ }
+ 
+ #texttable{
+     margin-top: 150px;
+     margin-bottom: 150px;
+     margin-left: 50px;
+ }
+
+ #netflix1{
+    font-size:26px;
+     margin-top:8px;
+     margin-left:300px ;
+     margin-right:300px;
+     margin-bottom: 0;
+     background: #303030;
+     color:#ffffff;
+ }
+
+ #netflix1-1{
+     text-align: left;
+     font-size:26px;
+    background: #303030;
+    color:#ffffff;
+    margin-bottom: 2px;
+}
+#color1{
+    font-size:26px;
+   margin-bottom: 2px;
+    background: #303030;
+    color:#ffffff;
+    padding-bottom: 0;
+
+}
+#cont{
+    color: #627575;
+    font-size: 13px;
+
+}
+
+#conta{
+    color: #627575;
+    font-size: 16px;
+
+}
+#idioma{
+    margin-left: 60px;
+    margin-bottom: 10px;
+    background: #303030;
+    color: #627575;
+}
+
+#login{
+    width: 500px;
+    background:#0F0F0A;
+}
+.formulario{
+    background: rgba(0,0,0,.75);
+    padding: 20px;
+}
+#label1{
+    margin-left: 50px;
+    width: 350px;
+    background: #000000;
+}
+
+#label2{
+    width: 350px;
+    margin-bottom: 50px;
+    background: #000000;
+}
+
+#label1-1{
+    border: none;
+    padding: 10px;
+    
+}
+
+#btn2{
+    background: #E50914;
+    font-size:30px;
+    color:white;
+    width: 350px;
+    padding: 13px;
+    font-size:16px;
+    border: none;
+}
+
+#contal{
+    color: #627575;
+    font-size: 13px;
+    background: rgba(0,0,0,.75);
+    margin-top: 60px;
+    padding-left: 300px;
+
+}
+
+#pregunta{
+    color: #627575;
+    font-size: 16px;
+
+
+}
+
+#idioma2{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background: #303030;
+    color: #627575;
+}
+#suscrito{
+    margin-bottom: 30px;
+}
+
+.bordep{
+    border: none;
+}
+
+#colorp{
+    
+    background: black;
+}
+
+
+
+
+
+ 
